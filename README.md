@@ -25,3 +25,9 @@
 |		              | Step 5: Test and Fine-tunes.                  |
 
 ---
+
+### Uptime Management
+
+- Show Websites uptime.
+
+---
